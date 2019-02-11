@@ -1,0 +1,13 @@
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\bin\Debug\JSUtilidades.exe.config
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\bin\Debug\JSUtilidades.exe
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\bin\Debug\JSUtilidades.pdb
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\obj\Debug\JSUtilidades.csprojResolveAssemblyReference.cache
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\obj\Debug\JSUtilidades.Form1.resources
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\obj\Debug\JSUtilidades.Properties.Resources.resources
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\obj\Debug\JSUtilidades.csproj.GenerateResource.Cache
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\obj\Debug\JSUtilidades.exe
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\obj\Debug\JSUtilidades.pdb
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\bin\Debug\JSUtilidades.exe.manifest
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\bin\Debug\JSUtilidades.application
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\obj\Debug\JSUtilidades.exe.manifest
+c:\users\joão\documents\visual studio 2013\Projects\JSUtilidades\JSUtilidades\obj\Debug\JSUtilidades.application
